@@ -19,9 +19,11 @@ import org.testng.annotations.Parameters;
 import com.aventstack.extentreports.reporter.ConfigurableReporter;
 import com.inetbanking.utilities.ReadConfig;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
+
 public class BaseClass {
-	
-	ReadConfig readConfig= new ReadConfig();
+
+	ReadConfig readConfig = new ReadConfig();
 
 	public static WebDriver driver;
 	public String baseURL = readConfig.getApplicationURL();
@@ -33,21 +35,24 @@ public class BaseClass {
 	@BeforeClass
 	public void setUp(String br) {
 
-	//	logger = Logger.getLogger("ebanking");
-		
+		// logger = Logger.getLogger("ebanking");
+
 		Logger logger = Logger.getLogger(ConfigurableReporter.class.getName());
 		PropertyConfigurator.configure("log4j.properties");
-		
-		 br="chrome";
+
+		br = "chrome";
 
 		if (br.equals("chrome")) {
 
-			System.setProperty("webdriver.chrome.driver",
-					readConfig.getChromePath());
+			// System.setProperty("webdriver.chrome.driver",
+			// readConfig.getChromePath());
+			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
-		} else if(br.equals("firefox")){
-			
-			System.setProperty("webdriver.gecko.driver", readConfig.getFirefoxPath());
+		} else if (br.equals("firefox")) {
+
+			// System.setProperty("webdriver.gecko.driver",
+			// readConfig.getFirefoxPath());
+			WebDriverManager.firefoxdriver().setup();
 			driver = new FirefoxDriver();
 
 		}
@@ -66,19 +71,16 @@ public class BaseClass {
 		driver.quit();
 
 	}
-	
-	public void captureScreen(WebDriver driver, String tname) throws IOException
-	{
-		
-		TakesScreenshot ts=	(TakesScreenshot)driver;
-		
+
+	public void captureScreen(WebDriver driver, String tname) throws IOException {
+
+		TakesScreenshot ts = (TakesScreenshot) driver;
+
 		File src = ts.getScreenshotAs(OutputType.FILE);
-		
-		FileUtils.copyFile(src, new File(System.getProperty("user.dir")+"/Screenshots/"+tname+".png"));
+
+		FileUtils.copyFile(src, new File(System.getProperty("user.dir") + "/Screenshots/" + tname + ".png"));
 		System.out.println("Screenshot taken");
-		
-		
-		
+
 	}
 
 }
