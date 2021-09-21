@@ -1,0 +1,83 @@
+2021-03-11 08:43:50,522 â?? ebanking -INFO â?? URL is opened
+2021-03-11 08:43:50,983 â?? ebanking -INFO â?? Entered Username
+2021-03-11 08:43:51,100 â?? ebanking -INFO â?? Entered Password
+2021-03-11 08:43:52,641 â?? ebanking -INFO â?? Clicked on submit
+2021-03-11 08:43:52,663 â?? ebanking -INFO â?? TestCase is Passed
+2021-03-11 08:59:47,766 â?? ebanking -INFO â?? URL is opened
+2021-03-11 08:59:48,103 â?? ebanking -INFO â?? Entered Username
+2021-03-11 08:59:48,200 â?? ebanking -INFO â?? Entered Password
+2021-03-11 08:59:49,890 â?? ebanking -INFO â?? Clicked on submit
+2021-03-11 08:59:49,904 â?? ebanking -INFO â?? TestCase is Passed
+2021-03-11 09:39:35,749 â?? ebanking -INFO â?? URL is opened
+2021-03-11 09:39:35,904 â?? ebanking -INFO â?? Entered Username
+2021-03-11 09:39:35,964 â?? ebanking -INFO â?? Entered Password
+2021-03-11 09:39:37,620 â?? ebanking -INFO â?? Clicked on submit
+2021-03-11 09:39:37,634 â?? ebanking -INFO â?? TestCase is Passed
+2021-03-11 09:41:38,683 â?? ebanking -INFO â?? URL is opened
+2021-03-11 09:41:39,113 â?? ebanking -INFO â?? Entered Username
+2021-03-11 09:41:39,232 â?? ebanking -INFO â?? Entered Password
+2021-03-11 09:41:40,778 â?? ebanking -INFO â?? Clicked on submit
+2021-03-11 09:41:40,799 â?? ebanking -INFO â?? TestCase is Passed
+2021-03-12 12:25:52,013 â?? ebanking -INFO â?? URL is opened
+2021-03-12 12:25:52,463 â?? ebanking -INFO â?? Entered Username
+2021-03-12 12:25:52,571 â?? ebanking -INFO â?? Entered Password
+2021-03-12 12:25:54,407 â?? ebanking -INFO â?? Clicked on submit
+2021-03-12 12:25:54,421 â?? ebanking -INFO â?? TestCase is Passed
+2021-03-12 12:27:44,321 â?? ebanking -INFO â?? URL is opened
+2021-03-12 12:27:44,807 â?? ebanking -INFO â?? Entered Username
+2021-03-12 12:27:44,915 â?? ebanking -INFO â?? Entered Password
+2021-03-12 12:27:46,750 â?? ebanking -INFO â?? Clicked on submit
+2021-03-12 12:27:46,765 â?? ebanking -INFO â?? TestCase is Passed
+2021-03-12 12:59:17,959 â?? ebanking -INFO â?? URL is opened
+2021-03-12 12:59:18,442 â?? ebanking -INFO â?? Entered Username
+2021-03-12 12:59:18,554 â?? ebanking -INFO â?? Entered Password
+2021-03-12 12:59:19,799 â?? ebanking -INFO â?? Clicked on submit
+2021-03-12 16:59:26,825 â?? ebanking -INFO â?? URL is opened
+2021-03-12 17:00:43,063 â?? ebanking -INFO â?? URL is opened
+2021-03-12 17:17:55,527 â?? ebanking -INFO â?? URL is opened
+2021-03-12 17:24:04,062 â?? ebanking -INFO â?? URL is opened
+2021-03-12 17:32:51,127 â?? ebanking -INFO â?? URL is opened
+2021-03-12 17:33:31,226 â?? ebanking -INFO â?? URL is opened
+2021-03-12 17:57:04,558 â?? ebanking -INFO â?? URL is opened
+2021-03-12 17:59:28,381 â?? ebanking -INFO â?? URL is opened
+2021-03-12 18:24:23,608 â?? ebanking -INFO â?? URL is opened
+2021-03-12 18:28:49,932 â?? ebanking -INFO â?? URL is opened
+2021-03-12 18:28:50,859 â?? ebanking -INFO â?? Username is Provided
+2021-03-12 18:28:51,000 â?? ebanking -INFO â?? Password is Provided
+2021-03-12 18:28:55,674 â?? ebanking -INFO â?? Login passed
+2021-03-12 18:28:58,845 â?? ebanking -INFO â?? Username is Provided
+2021-03-12 18:28:59,018 â?? ebanking -INFO â?? Password is Provided
+2021-03-12 18:29:03,981 â?? ebanking -INFO â?? Username is Provided
+2021-03-12 18:29:04,163 â?? ebanking -INFO â?? Password is Provided
+2021-03-12 18:29:08,797 â?? ebanking -INFO â?? Login passed
+2021-03-12 18:29:11,294 â?? ebanking -INFO â?? Username is Provided
+2021-03-12 18:29:11,454 â?? ebanking -INFO â?? Password is Provided
+2021-03-12 18:29:16,714 â?? ebanking -INFO â?? Username is Provided
+2021-03-12 18:29:16,926 â?? ebanking -INFO â?? Password is Provided
+2021-03-12 18:33:25,766 â?? ebanking -INFO â?? URL is opened
+2021-03-12 18:33:27,593 â?? ebanking -INFO â?? Username is Provided
+2021-03-12 18:33:27,725 â?? ebanking -INFO â?? Password is Provided
+2021-03-12 18:33:32,718 â?? ebanking -INFO â?? Login passed
+2021-03-12 18:33:36,383 â?? ebanking -INFO â?? Username is Provided
+2021-03-12 18:33:36,565 â?? ebanking -INFO â?? Password is Provided
+2021-03-12 18:33:41,832 â?? ebanking -INFO â?? Username is Provided
+2021-03-12 18:33:42,012 â?? ebanking -INFO â?? Password is Provided
+2021-03-12 18:33:46,149 â?? ebanking -INFO â?? Login passed
+2021-03-12 18:33:48,684 â?? ebanking -INFO â?? Username is Provided
+2021-03-12 18:33:48,871 â?? ebanking -INFO â?? Password is Provided
+2021-03-12 18:33:54,254 â?? ebanking -INFO â?? Username is Provided
+2021-03-12 18:33:54,426 â?? ebanking -INFO â?? Password is Provided
+2021-03-12 19:48:45,485 â?? ebanking -INFO â?? URL is opened
+2021-03-12 19:48:46,583 â?? ebanking -INFO â?? Username is Provided
+2021-03-12 19:48:46,700 â?? ebanking -INFO â?? Password is Provided
+2021-03-12 19:48:51,434 â?? ebanking -INFO â?? Login passed
+2021-03-12 19:48:55,678 â?? ebanking -INFO â?? Username is Provided
+2021-03-12 19:48:55,866 â?? ebanking -INFO â?? Password is Provided
+2021-03-12 19:49:01,332 â?? ebanking -INFO â?? Username is Provided
+2021-03-12 19:49:01,517 â?? ebanking -INFO â?? Password is Provided
+2021-03-12 19:49:05,780 â?? ebanking -INFO â?? Login passed
+2021-03-12 19:49:08,460 â?? ebanking -INFO â?? Username is Provided
+2021-03-12 19:49:08,611 â?? ebanking -INFO â?? Password is Provided
+2021-03-12 19:49:14,123 â?? ebanking -INFO â?? Username is Provided
+2021-03-12 19:49:14,287 â?? ebanking -INFO â?? Password is Provided
+2021-03-13 23:48:23,927 â?? ebanking -INFO â?? URL is opened
